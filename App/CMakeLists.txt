@@ -1,7 +1,9 @@
 ﻿cmake_minimum_required (VERSION 3.8)
 
-add_executable (CMakeTest "Main.cpp" )
+project(outExe)
 
-target_link_libraries(CMakeTest library)
+add_executable (outExe "Main.cpp" )
 
-target_include_directories(CMakeTest PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/../3rdParty ${CMAKE_CURRENT_SOURCE_DIR}/../Utils ${CMAKE_CURRENT_SOURCE_DIR}/../Utils/Math)
+target_link_libraries(outExe library Utils)
+
+target_include_directories(outExe PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/../3rdParty ${CMAKE_CURRENT_SOURCE_DIR}/../Utils ${CMAKE_CURRENT_SOURCE_DIR}/../Utils/Math)
