@@ -1,0 +1,13 @@
+C:/Users/Marcus/source/repos/CMakeTest/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Users/Marcus/source/repos/CMakeTest/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
+C:/Users/Marcus/source/repos/CMakeTest/out/build/x64-Debug (default)/3rdParty/CMakeFiles/edit_cache.dir
+C:/Users/Marcus/source/repos/CMakeTest/out/build/x64-Debug (default)/3rdParty/CMakeFiles/rebuild_cache.dir
+C:/Users/Marcus/source/repos/CMakeTest/out/build/x64-Debug (default)/3rdParty/3pLib/CMakeFiles/rebuild_cache.dir
+C:/Users/Marcus/source/repos/CMakeTest/out/build/x64-Debug (default)/3rdParty/3pLib/CMakeFiles/3pLib.dir
+C:/Users/Marcus/source/repos/CMakeTest/out/build/x64-Debug (default)/3rdParty/3pLib/CMakeFiles/edit_cache.dir
+C:/Users/Marcus/source/repos/CMakeTest/out/build/x64-Debug (default)/App/CMakeFiles/CMakeTest.dir
+C:/Users/Marcus/source/repos/CMakeTest/out/build/x64-Debug (default)/App/CMakeFiles/edit_cache.dir
+C:/Users/Marcus/source/repos/CMakeTest/out/build/x64-Debug (default)/App/CMakeFiles/rebuild_cache.dir
+C:/Users/Marcus/source/repos/CMakeTest/out/build/x64-Debug (default)/Utils/CMakeFiles/Utils.dir
+C:/Users/Marcus/source/repos/CMakeTest/out/build/x64-Debug (default)/Utils/CMakeFiles/edit_cache.dir
+C:/Users/Marcus/source/repos/CMakeTest/out/build/x64-Debug (default)/Utils/CMakeFiles/rebuild_cache.dir
